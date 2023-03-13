@@ -1,5 +1,5 @@
 <h1 align="center">Hi There , I am Sanchit Raj Chaurasia</h1>
-<h3 align="center">I enjoy Coding</h3>
+<h3 align="center">I am good learner and a great executer. I enjoy coding and learning </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanchitraj23&label=Profile%20views&color=0e75b6&style=flat" alt="Sanchitraj23" /> </p>
 
